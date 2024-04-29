@@ -1,0 +1,13 @@
+1. Create a vite + react app: 
+    npm install -g create-vite
+    create-vite my-react-app --template react
+2. Clear cache: npm cache clean --force
+3. Install Redux toolkit & React-Redux:
+    npm install @reduxjs/toolkit react-redux --force
+4. Install MUI: (https://mui.com/material-ui/getting-started/installation/)
+    npm install @mui/material @emotion/react @emotion/styled
+5. Install react-router-dom
+    npm i react-router-dom
+6. Install Axios
+    npm i axios
+7. npm i html-entities (to format the questions' texts)
